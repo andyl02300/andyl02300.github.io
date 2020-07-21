@@ -25,6 +25,9 @@
     margin-right: 1rem;
     margin-left: 1rem;
 }
+#formation {
+        margin-top: 1rem;
+}
 
 .divider-custom .divider-custom-icon {
     color: #2c3e50;
